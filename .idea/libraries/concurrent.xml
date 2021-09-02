@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="concurrent">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Libraries/concurrent.zip!/concurrent" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Libraries/concurrent.zip!/concurrent/taskDemo" />
+    </SOURCES>
+  </library>
+</component>
